@@ -2,7 +2,7 @@
 A simple program that'll create a DNJ (Dungeon's and JJBA) sheet from scratch and format it for usage.
 
 HOW TO USE:
-1. Download IntelliJ (Link can be found here; other download types can be found on the website): (https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
+1. Download IntelliJ (Link can be found here; other download types can be found on the website. MAKE SURE YOU GET THE COMMUNITY ADDITION!!!): https://www.jetbrains.com/idea/download/#section=windows
 2. Open IntelliJ
 3. Click on the button that says 'Open' in the IntelliJ home
 4. Choose the "dnd sheet creator" file (Should be embedded inside of this folder)
